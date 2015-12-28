@@ -20,3 +20,4 @@ library
 
 source-repository head
   type:     git
+  location: https://github.com/TheKing42/Big-Huge-Thesaurus-Haskell
